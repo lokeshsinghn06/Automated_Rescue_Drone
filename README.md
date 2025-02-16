@@ -1,0 +1,2 @@
+This drone captures humans and animals with the help of thermal and fpv camera, preprocesses them with FLIR, and sends the captured images as an input for YOLOV8 for human detection by connecting LORA or using FTP protocol we get those 
+data to the reciever end , and sends the gps coordinates using the gps sensor to the base camp. Using geofencing and Machine Planner way points the drone works automated without human intervention
